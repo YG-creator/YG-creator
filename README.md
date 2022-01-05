@@ -4,6 +4,7 @@
 
 :hamster: 같이 노력해서 훌륭한 개발자가 됩시다.
 
+
 # 사용가능한 컴퓨팅언어 및 프레임워크
 * Java,Python,C : 기본 문법 가능  
 * Html, Css, JavaScript, JSP, jquery, Ajax : 페이지 이동 없이 동작하는 동적 웹페이지 구현 가능, 디지안 쪽(프론트)으로는 미흡
@@ -13,3 +14,8 @@
 * Cloud : Naver Cloud를 사용해서 파파고, tts, stt, Dynamic Map, Static Map, 챗봇 사용, Server 사용
 * 알고리즘 : 백준 Gold IV
 
+
+# 프로젝트
+* 따닥따닥(조건에 맞는 병원찾기)
+* 증상을 통한 질병 진단(의사결정나무 ML 사용)
+* 와이너리 관리 DB 프로젝트(밭,포도농장,와이너리 관련 DB 설계)
