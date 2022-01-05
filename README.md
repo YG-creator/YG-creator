@@ -6,6 +6,6 @@
 
 배우고 사용해 본것들
 Java, Python, C, Html, CSS, JavaScript
-Spring MVC, JDBC, JSP, jquery, ajax
+Spring MVC, JDBC, JSP, jquery, ajax, 
 MySQL 
 Open api parsing(XML, JSON)
