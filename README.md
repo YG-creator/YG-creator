@@ -7,6 +7,7 @@
 :hamster: 계획을 세우고 꾸준히 노력하여 목표를  달성합니다.
 
 
+
 # 사용가능한 컴퓨팅언어 및 프레임워크
 * Java,Python,C : 기본 문법 가능  
 * Html, Css, JavaScript, JSP, jquery, Ajax : 페이지 이동 없이 동작하는 동적 웹페이지 구현 가능, 디지안 쪽(프론트)으로는 미흡
