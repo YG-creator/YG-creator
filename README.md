@@ -16,7 +16,6 @@
 * ORM(Mybatis, JPA) : 매핑 가능
 * Test : Junit, Mockito 
 * Spring Security : 인증, 인가, filter(UsernameAndPwdFilter, JWSTokenFilter) 가능
-* Spring Batch : 원하는 시간에 한번에 작업 가능
 * Open api parsing(XML, JSON) : 공공데이터 parsing 가능
 * Cloud : Naver Cloud(Iaas), AWS(Iaas), Heroku(Paas) 로 배포, 운영해 봄
 * CI/CD : Git Actions로 자동배포 가능, Docker로 container 생성 가능
